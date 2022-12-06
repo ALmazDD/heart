@@ -1,0 +1,21 @@
+body {
+  background: black;
+  margin: 0;
+  overflow: hidden;
+  background-repeat: no-repeat;
+}
+
+.canvas {
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  border-radius: 100px;
+}
+
+.some {
+  z-index: 100000;
+  color: white;
+  text-align: center;
+}
